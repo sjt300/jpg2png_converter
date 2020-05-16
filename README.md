@@ -1,6 +1,6 @@
 # jpg2png_converter
-- Using Tkinter:
-  -select files to convert
-  -preview images by double clicking
-  -select directory to convert to
+- Using Tkinter:<br/>
+  -select files to convert<br/>
+  -preview images by double clicking<br/>
+  -select directory to convert to<br/>
   -Voila
